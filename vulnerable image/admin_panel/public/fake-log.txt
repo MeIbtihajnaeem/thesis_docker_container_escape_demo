@@ -1,0 +1,3 @@
+[INFO] Admin panel accessed
+[ERROR] DB connection failed
+[INFO] Download requested
